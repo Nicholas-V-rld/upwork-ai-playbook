@@ -1,0 +1,6 @@
+node_modules/
+out/
+sites.json
+me.md
+proposals/
+.DS_Store

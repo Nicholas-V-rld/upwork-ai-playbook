@@ -1,0 +1,7 @@
+{
+  "name": "upwork-portfolio-thumbnails",
+  "private": true,
+  "type": "module",
+  "scripts": { "thumbs": "node thumbs.mjs sites.json out" },
+  "dependencies": { "playwright": "1.57.0" }
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://wordpress.org/",
+    "kicker": "WordPress build",
+    "headline": "Replace this with a keyword headline",
+    "chips": ["WordPress", "Elementor Pro", "WooCommerce"],
+    "accent": "#F26B5B",
+    "scores": [
+      { "label": "SEO", "value": 100 },
+      { "label": "Accessibility", "value": 96 },
+      { "label": "Performance", "value": 62 }
+    ],
+    "scoreSource": "Lighthouse · mobile · Jan 2026"
+  }
+]
