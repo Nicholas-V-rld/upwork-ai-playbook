@@ -1,5 +1,7 @@
 # Upwork AI Playbook
 
+> Built by Daniel Oyinloluwa and Nicholas V. as a team.
+
 Position an Upwork profile, build a portfolio clients actually open, and send a steady volume of honest proposals, with Claude doing the legwork.
 
 It's built around one idea we watched work: **a narrow "fix and build" niche, small fixed-price jobs to stack reviews fast, and real before/after numbers in every claim.** A WordPress freelancer used it to go from 0 to 46 jobs in about 8 weeks. This repo turns that into a system.
